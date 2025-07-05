@@ -1,3 +1,3 @@
-# TTDA數位工作坊 雷切軟體
+# 雷切軟體 Laser Cutter Software
 
-[下載連結 - Download Link](https://github.com/TaiwanTechDigitalAtelier/LaserSoftware/releases)
+[軟體下載區 - Software Downloads](https://github.com/TaiwanTechDigitalAtelier/Laser-Cutters/releases/tag/downloads)
